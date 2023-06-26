@@ -1,0 +1,32 @@
+.texto {
+    border: 5px solid green;
+    margin: 50px;
+}
+
+#primer {
+    color: green;
+}
+
+#segundo {
+    color: red;
+}
+
+#tercer {
+    text-decoration: underline overline;
+}
+
+#cuarto {
+    font-size: 30px;
+}
+
+#quinto {
+    color: blue;
+}
+
+#sexto {
+    color: red;
+}
+
+p {
+    text-align: center;
+}
