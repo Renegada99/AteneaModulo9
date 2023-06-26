@@ -1,0 +1,25 @@
+table {
+    background-color: rgb(94, 166, 94);
+    margin: 50px;
+    border: solid 2px rgb(42, 0, 254);
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(250, 87, 0);
+}
+
+td {
+    border-top: dotted 1px black;
+    background-color: antiquewhite;
+}
+
+#celda_2_2 {
+    border-left: dotted 1px black;
+}
+
+#celda_3_2 {
+    border-left: dotted 1px black;
+}
