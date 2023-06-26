@@ -1,0 +1,25 @@
+#uno {
+    color: black;
+}
+
+#dos {
+    color: yellow;
+    text-decoration: underline;
+}
+
+#tres {
+    color: darkorchid;
+    text-decoration: underline;
+}
+
+.cuadro_texto {
+    border: 5px solid aqua;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-color: cornflowerblue;
+    border-top-color: cornflowerblue;
+    margin: 50px;
+
+}
